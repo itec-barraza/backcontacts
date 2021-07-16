@@ -1,7 +1,6 @@
-PATCH  http://localhost:3001/contacts/5
+PATCH  http://localhost:3001/contacts/60f13859d4585c68b516a939
 Content-Type: application/json
 
-{
-    "phone": "53246",
-    "root": "yes"
+{    
+    "name": "lalalala"
 }
