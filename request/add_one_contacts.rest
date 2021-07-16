@@ -1,0 +1,8 @@
+POST http://localhost:3001/contacts
+Content-Type: application/json
+
+{
+    "favourite": true,
+    "name": "nuevo contacto",
+    "phone": "1234567"
+}
